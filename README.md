@@ -1,4 +1,6 @@
-# polaroid_camera
+# Polaroid Camera Animation
+
+<img width="400" height="865" alt="animation" src="https://github.com/user-attachments/assets/6f8207cb-cfad-4a01-b336-3a4e9aeda5a0" />
 
 A skeuomorphic Polaroid OneStep camera built in Flutter. The entire camera body
 is hand-painted on a `Canvas`, a live front-camera feed shows inside the
